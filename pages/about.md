@@ -20,6 +20,7 @@ This is my demo collection to practice using CB-GH
 - a folder of JPG images or PDF documents
 
 ## About the project
+{% include feature/timelinejs.html %}
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
